@@ -40,7 +40,8 @@ dependencies {
 	implementation 'com.example:uberentityservice:0.0.4-SNAPSHOT'
 //	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
 //	runtimeOnly 'com.mysql:mysql-connector-j'
-
+	implementation 'org.springframework.kafka:spring-kafka:3.1.4'
+	implementation 'io.github.cdimascio:dotenv-java:3.0.0'
 
 
 
